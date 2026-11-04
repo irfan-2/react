@@ -1,0 +1,37 @@
+commands for react setup:
+-pnpm create vite@latest <folder_name>
+-react -> javascript-> ESlint -> No
+-pnpm install tailwindcss @tailwindcss/vite
+-update vite.config.js according to tailwind documentation
+-delete app.css
+and remove content of inde.css and add @import "tailwindcss"
+
+
+
+strictmode hai kya ?
+
+<> empty html tags/elements are called fragments 
+empty tag is better to use 
+this is used to create single parent 
+
+iske andar kitne bhi children ho sakte 
+
+.jsx means javascript+ XML
+
+react me slash thoda ultha likhte 
+
+normal html me apan sirf 1 html file run karte the 
+vite apne ku pura server run karne deta 
+
+app.css delete kar sakte
+
+index.css rehne dna 
+
+react me classname dena padhta 
+
+tailwind margin padding hata deta by default
+jo ki 1 achi baat hai karte
+
+react :
+fragments: empty html element
+
